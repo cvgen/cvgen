@@ -1,4 +1,4 @@
 cvgen
 =====
 
-curriculum vitae generator with social elements
+Curriculum Vitae Generator with social elements
